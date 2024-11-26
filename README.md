@@ -105,6 +105,7 @@ Setup Guide:
    - Run the JavaFX application to access the GUI for managing employees and their salaries.
 
 This system provides a comprehensive solution for managing employee information both in the database and in a user-friendly graphical interface.
+![Описание изображения](путь/к/изображению)
 
 
 
